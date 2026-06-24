@@ -1,0 +1,232 @@
+[{
+  "_id": {
+    "$oid": "68ff2df0972d54e72947c158"
+  },
+  "name": "The Dark Knight",
+  "art": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "jahr": "2008",
+  "regisseur": "Christopher Nolan",
+  "schauspieler": [
+    "Christian Bale",
+    "Heath Ledger"
+  ],
+  "rating": "4.5",
+  "min_alter": "12",
+  "bemerkungen": "Mein Lieblingsfilm."
+},
+{
+  "_id": {
+    "$oid": "68ff2df0972d54e72947c159"
+  },
+  "name": "Inception",
+  "art": [
+    "Action",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "jahr": "2010",
+  "regisseur": "Christopher Nolan",
+  "schauspieler": [
+    "Leonardo DiCaprio",
+    "Joseph Gordon-Levitt"
+  ],
+  "rating": "4.7",
+  "min_alter": "12",
+  "bemerkungen": "Ein sehr komplexer und beeindruckender Film."
+},
+{
+  "_id": {
+    "$oid": "68ff2df0972d54e72947c15a"
+  },
+  "name": "Interstellar",
+  "art": [
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "jahr": "2014",
+  "regisseur": "Christopher Nolan",
+  "schauspieler": [
+    "Matthew McConaughey",
+    "Anne Hathaway"
+  ],
+  "rating": "4.6",
+  "min_alter": "12",
+  "bemerkungen": "Eine tolle Geschichte mit guter Message dahinter."
+},
+{
+  "_id": {
+    "$oid": "68ff2df0972d54e72947c15b"
+  },
+  "name": "Pulp Fiction",
+  "art": [
+    "Crime",
+    "Drama"
+  ],
+  "jahr": "1994",
+  "regisseur": "Quentin Tarantino",
+  "schauspieler": [
+    "John Travolta",
+    "Samuel L. Jackson"
+  ],
+  "rating": "4.8",
+  "min_alter": "16",
+  "bemerkungen": "Ein Kultklassiker"
+},
+{
+  "_id": {
+    "$oid": "68ff2df0972d54e72947c15c"
+  },
+  "name": "The Matrix",
+  "art": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "jahr": "1999",
+  "regisseur": "The Wachowskis",
+  "schauspieler": [
+    "Keanu Reeves",
+    "Laurence Fishburne"
+  ],
+  "rating": "4.7",
+  "min_alter": "12",
+  "bemerkungen": "EIn unterschätzter Film."
+},
+{
+  "_id": {
+    "$oid": "68ff2df0972d54e72947c15d"
+  },
+  "name": "Gladiator",
+  "art": [
+    "Action",
+    "Drama",
+    "Adventure"
+  ],
+  "jahr": "2000",
+  "regisseur": "Ridley Scott",
+  "schauspieler": [
+    "Russell Crowe",
+    "Joaquin Phoenix"
+  ],
+  "rating": "4.6",
+  "min_alter": "16",
+  "bemerkungen": "Episches Meisterwerk"
+},
+{
+  "_id": {
+    "$oid": "68ff5327972d54e72947c164"
+  },
+  "name": "Forrest Gump",
+  "art": [
+    "Drama",
+    "Romance"
+  ],
+  "jahr": "1994",
+  "regisseur": "Robert Zemeckis",
+  "schauspieler": [
+    "Tom Hanks",
+    "Robin Wright"
+  ],
+  "rating": "4.8",
+  "min_alter": "12",
+  "bemerkungen": "Herzerwärmender Klassiker"
+},
+{
+  "_id": {
+    "$oid": "68ff5327972d54e72947c165"
+  },
+  "name": "Titanic",
+  "art": [
+    "Drama",
+    "Romance"
+  ],
+  "jahr": "1997",
+  "regisseur": "James Cameron",
+  "schauspieler": [
+    "Leonardo DiCaprio",
+    "Kate Winslet"
+  ],
+  "rating": "4.6",
+  "min_alter": "12",
+  "bemerkungen": "Episches Liebesdrama"
+},
+{
+  "_id": {
+    "$oid": "68ff5327972d54e72947c166"
+  },
+  "name": "The Lord of the Rings: The Fellowship of the Ring",
+  "art": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "jahr": "2001",
+  "regisseur": "Peter Jackson",
+  "schauspieler": [
+    "Elijah Wood",
+    "Ian McKellen"
+  ],
+  "rating": "4.7",
+  "min_alter": "12",
+  "bemerkungen": "Lieblingsfilm von meinem Vater"
+},
+{
+  "_id": {
+    "$oid": "68ff5327972d54e72947c167"
+  },
+  "name": "Avatar",
+  "art": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "jahr": "2009",
+  "regisseur": "James Cameron",
+  "schauspieler": [
+    "Sam Worthington",
+    "Zoe Saldana"
+  ],
+  "rating": "4.5",
+  "min_alter": "12",
+  "bemerkungen": "Visuell beeindruckend"
+},
+{
+  "_id": {
+    "$oid": "68ff5327972d54e72947c168"
+  },
+  "name": "The Shawshank Redemption",
+  "art": [
+    "Drama"
+  ],
+  "jahr": "1994",
+  "regisseur": "Frank Darabont",
+  "schauspieler": [
+    "Tim Robbins",
+    "Morgan Freeman"
+  ],
+  "rating": "4.9",
+  "min_alter": "14",
+  "bemerkungen": "Gefängnisdrama"
+},
+{
+  "_id": {
+    "$oid": "68ff5327972d54e72947c169"
+  },
+  "name": "Fight Club",
+  "art": [
+    "Drama"
+  ],
+  "jahr": "1999",
+  "regisseur": "David Fincher",
+  "schauspieler": [
+    "Brad Pitt",
+    "Edward Norton"
+  ],
+  "rating": "4.6",
+  "min_alter": "16",
+  "bemerkungen": "Psychologisch intressanter Klassiker"
+}]
